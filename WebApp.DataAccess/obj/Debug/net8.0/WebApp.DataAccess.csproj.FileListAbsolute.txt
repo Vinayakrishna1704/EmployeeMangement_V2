@@ -1,0 +1,17 @@
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\obj\Debug\net8.0\WebApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\obj\Debug\net8.0\WebApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\obj\Debug\net8.0\WebApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\obj\Debug\net8.0\WebApp.DataAccess.AssemblyInfo.cs
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\obj\Debug\net8.0\WebApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\bin\Debug\net8.0\WebApp.DataAccess.deps.json
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\bin\Debug\net8.0\WebApp.DataAccess.runtimeconfig.json
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\bin\Debug\net8.0\WebApp.DataAccess.dll
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\bin\Debug\net8.0\WebApp.DataAccess.pdb
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\bin\Debug\net8.0\WebApp.Model.dll
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\bin\Debug\net8.0\WebApp.Model.pdb
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\obj\Debug\net8.0\WebApp.D.A048C8C4.Up2Date
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\obj\Debug\net8.0\WebApp.DataAccess.dll
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\obj\Debug\net8.0\refint\WebApp.DataAccess.dll
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\obj\Debug\net8.0\WebApp.DataAccess.pdb
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\obj\Debug\net8.0\WebApp.DataAccess.genruntimeconfig.cache
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.DataAccess\obj\Debug\net8.0\ref\WebApp.DataAccess.dll

@@ -15,4 +15,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WebApp.DataAccess\WebApp.DataAccess.csproj" />
+    <ProjectReference Include="..\WebApp.Model\WebApp.Model.csproj" />
+  </ItemGroup>
+
 </Project>
