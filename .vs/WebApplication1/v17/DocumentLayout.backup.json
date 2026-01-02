@@ -3,72 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\employee\\editemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\editemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\employee\\deleteemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\deleteemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A62D5E0-4623-4885-8E6D-E1CFFA82D671}|WebApp.Model\\WebApp.Model.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapp.model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A62D5E0-4623-4885-8E6D-E1CFFA82D671}|WebApp.Model\\WebApp.Model.csproj|solutionrelative:webapp.model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A62D5E0-4623-4885-8E6D-E1CFFA82D671}|WebApp.Model\\WebApp.Model.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapp.model\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A62D5E0-4623-4885-8E6D-E1CFFA82D671}|WebApp.Model\\WebApp.Model.csproj|solutionrelative:webapp.model\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\shared\\_tempdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_tempdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapp.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\shared\\_tempdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_tempdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapp.dataaccess\\migrations\\20251030061053_seeding.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\migrations\\20251030061053_seeding.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapp.dataaccess\\migrations\\20251030061053_seeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\migrations\\20251030061053_seeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapp.dataaccess\\migrations\\20251028091651_addingemployeestable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\migrations\\20251028091651_addingemployeestable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapp.dataaccess\\migrations\\20251028091651_addingemployeestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\migrations\\20251028091651_addingemployeestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapp.dataaccess\\migrations\\20251107090744_addingidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\migrations\\20251107090744_addingidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapp.dataaccess\\migrations\\20251107090744_addingidentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\migrations\\20251107090744_addingidentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapp.dataaccess\\migrations\\20251127061210_addingprimarykeyandidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\migrations\\20251127061210_addingprimarykeyandidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapp.dataaccess\\migrations\\20251127061210_addingprimarykeyandidentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\migrations\\20251127061210_addingprimarykeyandidentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapp.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58956E83-13E3-4E36-90DA-896FCC5C1A5E}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\employee\\editemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\editemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\views\\employee\\deleteemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\deleteemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -77,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|c:\\users\\vinay\\onedrive\\desktop\\projects\\webapplication1\\webapplication1\\migrations\\20251028091651_addingemployeestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9FA5665-CD9D-4659-8FBE-C3B4C56A5162}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20251028091651_addingemployeestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,158 +122,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-30T05:43:21.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_TempData.cshtml",
-              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_TempData.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_TempData.cshtml",
-              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_TempData.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_TempData.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-12T13:49:44.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-12T14:00:51.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DeleteEmployee.cshtml",
-              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\DeleteEmployee.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\DeleteEmployee.cshtml",
-              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\DeleteEmployee.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Employee\\DeleteEmployee.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-11T05:30:52.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAswD4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T05:40:23.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EditEmployee.cshtml",
-              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\EditEmployee.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\EditEmployee.cshtml",
-              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\EditEmployee.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Employee\\EditEmployee.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-11T02:36:04.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddEmployee.cshtml",
-              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\AddEmployee.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\AddEmployee.cshtml",
-              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\AddEmployee.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Employee\\AddEmployee.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T08:47:30.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.Model\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApp.Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.Model\\Employee.cs",
+              "RelativeToolTip": "WebApp.Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T07:15:01.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T10:25:09.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T13:42:35.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Data\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Data\\ApplicationDBContext.cs",
-              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDBContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAA2AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T09:19:56.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T09:03:44.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAADIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-30T05:42:44.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:38:17.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
@@ -253,56 +187,259 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.Model\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp.Model\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.Model\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApp.Model\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T09:38:17.41Z"
+              "WhenOpened": "2025-12-08T10:27:05.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
+              "Title": "_TempData.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_TempData.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_TempData.cshtml",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_TempData.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_TempData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T13:49:44.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T12:15:17.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T12:15:17.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T05:43:21.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T10:35:28.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "WebApplication1.csproj",
               "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
               "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
               "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-24T15:10:50.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAIBJwAkAAABVAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\AddEmployee.cshtml",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Employee\\AddEmployee.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-03T13:45:03.527Z"
+              "WhenOpened": "2025-11-07T08:47:30.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:42:35.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20251030061053_Seeding.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251030061053_Seeding.Designer.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\Migrations\\20251030061053_Seeding.Designer.cs",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251030061053_Seeding.Designer.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\Migrations\\20251030061053_Seeding.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:15:32.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251030061053_Seeding.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251030061053_Seeding.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\Migrations\\20251030061053_Seeding.cs",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251030061053_Seeding.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\Migrations\\20251030061053_Seeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:13:07.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251028091651_AddingEmployeesTable.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251028091651_AddingEmployeesTable.Designer.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\Migrations\\20251028091651_AddingEmployeesTable.Designer.cs",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251028091651_AddingEmployeesTable.Designer.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\Migrations\\20251028091651_AddingEmployeesTable.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:13:03.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251028091651_AddingEmployeesTable.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251028091651_AddingEmployeesTable.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\Migrations\\20251028091651_AddingEmployeesTable.cs",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251028091651_AddingEmployeesTable.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\Migrations\\20251028091651_AddingEmployeesTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:12:50.907Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "20251107090744_AddingIDentity.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251107090744_AddingIDentity.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\Migrations\\20251107090744_AddingIDentity.cs",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251107090744_AddingIDentity.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\Migrations\\20251107090744_AddingIDentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:13:09.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20251107090744_AddingIDentity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251107090744_AddingIDentity.Designer.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\Migrations\\20251107090744_AddingIDentity.Designer.cs",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251107090744_AddingIDentity.Designer.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\Migrations\\20251107090744_AddingIDentity.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:16:42.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251127061210_AddingPrimarykeyandidentity.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251127061210_AddingPrimarykeyandidentity.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\Migrations\\20251127061210_AddingPrimarykeyandidentity.cs",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251127061210_AddingPrimarykeyandidentity.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\Migrations\\20251127061210_AddingPrimarykeyandidentity.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:13:10.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251127061210_AddingPrimarykeyandidentity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251127061210_AddingPrimarykeyandidentity.Designer.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\Migrations\\20251127061210_AddingPrimarykeyandidentity.Designer.cs",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\20251127061210_AddingPrimarykeyandidentity.Designer.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\Migrations\\20251127061210_AddingPrimarykeyandidentity.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:17:40.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApp.DataAccess\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:22:28.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAIBJwDIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T05:42:44.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T14:00:51.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\EditEmployee.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\EditEmployee.cshtml",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\EditEmployee.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Employee\\EditEmployee.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAIBZwBoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T02:36:04.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeleteEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\DeleteEmployee.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\DeleteEmployee.cshtml",
+              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Views\\Employee\\DeleteEmployee.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Employee\\DeleteEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T05:30:52.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -314,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "bootstrap.min.css",
               "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
@@ -325,28 +462,8 @@
               "WhenOpened": "2025-11-02T03:41:57.888Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20251028091651_AddingEmployeesTable.cs",
-              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Migrations\\20251028091651_AddingEmployeesTable.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20251028091651_AddingEmployeesTable.cs",
-              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Migrations\\20251028091651_AddingEmployeesTable.cs",
-              "RelativeToolTip": "WebApplication1\\Migrations\\20251028091651_AddingEmployeesTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T09:16:52.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\vinay\\OneDrive\\Desktop\\Projects\\WebApplication1\\WebApplication1\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T13:43:58.523Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

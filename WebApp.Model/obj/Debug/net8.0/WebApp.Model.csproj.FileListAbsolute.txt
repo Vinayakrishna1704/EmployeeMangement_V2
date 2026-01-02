@@ -1,0 +1,14 @@
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.Model\bin\Debug\net8.0\WebApp.Model.deps.json
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.Model\bin\Debug\net8.0\WebApp.Model.runtimeconfig.json
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.Model\bin\Debug\net8.0\WebApp.Model.dll
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.Model\bin\Debug\net8.0\WebApp.Model.pdb
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.Model\obj\Debug\net8.0\WebApp.Model.csproj.AssemblyReference.cache
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.Model\obj\Debug\net8.0\WebApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.Model\obj\Debug\net8.0\WebApp.Model.AssemblyInfoInputs.cache
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.Model\obj\Debug\net8.0\WebApp.Model.AssemblyInfo.cs
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.Model\obj\Debug\net8.0\WebApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.Model\obj\Debug\net8.0\WebApp.Model.dll
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.Model\obj\Debug\net8.0\refint\WebApp.Model.dll
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.Model\obj\Debug\net8.0\WebApp.Model.pdb
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.Model\obj\Debug\net8.0\WebApp.Model.genruntimeconfig.cache
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApp.Model\obj\Debug\net8.0\ref\WebApp.Model.dll

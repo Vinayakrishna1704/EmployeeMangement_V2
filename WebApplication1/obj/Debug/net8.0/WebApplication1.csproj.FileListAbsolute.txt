@@ -340,3 +340,7 @@ C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApplication1\obj\Deb
 C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApp.DataAccess.dll
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApp.Model.dll
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApp.DataAccess.pdb
+C:\Users\vinay\OneDrive\Desktop\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApp.Model.pdb

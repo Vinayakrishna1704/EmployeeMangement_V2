@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
-using WebApplication1.Data;
-using WebApplication1.Models;
+using WebApp.DataAccess.Data;
+using WebApp.Model;
 
 namespace WebApplication1.Controllers
 {
@@ -92,7 +92,7 @@ namespace WebApplication1.Controllers
             
             
                 _db.Employees.Remove(obj);
-                _db.SaveChanges();
+                _db.SaveChanges(); 
             TempData["Success"] = "Employee deleted Successfully";
             return RedirectToAction("Index");
             
